@@ -4,6 +4,9 @@ public class Main {
         for (int i = 0; i < 10; i++) {
             System.out.println(i);
 
+            System.out.println("I am Karl your creator");
+            System.out.println("not your daddy");
+
         }
     }
 }
